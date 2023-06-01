@@ -8,3 +8,5 @@ version:
   channel: beta
 
 project_type: app
+
+// Commit 2: Setup Flutter project structure
