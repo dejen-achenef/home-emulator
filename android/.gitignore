@@ -5,3 +5,5 @@ gradle-wrapper.jar
 /gradlew.bat
 /local.properties
 GeneratedPluginRegistrant.java
+
+// Commit 6: Implement app theme and colors
