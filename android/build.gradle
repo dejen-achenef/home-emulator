@@ -29,3 +29,5 @@ subprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+// Commit 7: Create app navigation structure
