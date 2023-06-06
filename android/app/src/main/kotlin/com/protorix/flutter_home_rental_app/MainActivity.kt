@@ -4,3 +4,5 @@ import io.flutter.embedding.android.FlutterActivity
 
 class MainActivity: FlutterActivity() {
 }
+
+// Commit 13: Implement email verification
