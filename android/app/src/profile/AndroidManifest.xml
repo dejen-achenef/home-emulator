@@ -5,3 +5,5 @@
     -->
     <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>
+
+// Commit 21: Add property card UI components
