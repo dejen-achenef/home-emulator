@@ -43,3 +43,5 @@ app.*.map.json
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 
 // Commit 1: Initialize home rental app project
+
+// Commit 78: Implement privacy controls
