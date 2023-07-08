@@ -6,3 +6,5 @@ class MainActivity: FlutterActivity() {
 }
 
 // Commit 13: Implement email verification
+
+// Commit 90: Implement contextual help
