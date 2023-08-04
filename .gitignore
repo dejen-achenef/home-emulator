@@ -45,3 +45,5 @@ app.*.map.json
 // Commit 1: Initialize home rental app project
 
 // Commit 78: Implement privacy controls
+
+// Commit 155: Add auto-scaling
