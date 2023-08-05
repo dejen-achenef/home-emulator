@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 // Commit 5: Design app splash screen
 
 // Commit 82: Create help and support
+
+// Commit 159: Implement continuous integration
