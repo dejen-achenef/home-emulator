@@ -6,3 +6,5 @@ You can also do it by opening your Flutter project's Xcode project with `open io
 // Commit 58: Implement pricing management
 
 // Commit 135: Implement asset management
+
+// Commit 212: Implement property details view
