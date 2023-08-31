@@ -43,3 +43,5 @@ class SizeConfig {
 // Commit 71: Create offline mode
 
 // Commit 148: Create monitoring system
+
+// Commit 225: Create messaging system
