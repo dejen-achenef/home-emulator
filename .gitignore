@@ -47,3 +47,5 @@ app.*.map.json
 // Commit 78: Implement privacy controls
 
 // Commit 155: Add auto-scaling
+
+// Commit 232: Add calendar integration
