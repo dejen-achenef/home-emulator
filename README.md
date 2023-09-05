@@ -20,3 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 // Commit 82: Create help and support
 
 // Commit 159: Implement continuous integration
+
+// Commit 236: Implement booking confirmation
