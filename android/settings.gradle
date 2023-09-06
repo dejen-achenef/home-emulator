@@ -19,3 +19,5 @@ plugins.each { name, path ->
 // Commit 86: Add onboarding flow
 
 // Commit 163: Create release management
+
+// Commit 240: Create review and rating system
