@@ -35,3 +35,5 @@ task clean(type: Delete) {
 // Commit 84: Implement contact support
 
 // Commit 161: Add rollback mechanisms
+
+// Commit 238: Add cancellation policy
