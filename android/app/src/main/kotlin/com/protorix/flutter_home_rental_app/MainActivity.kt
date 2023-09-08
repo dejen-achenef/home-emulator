@@ -10,3 +10,5 @@ class MainActivity: FlutterActivity() {
 // Commit 90: Implement contextual help
 
 // Commit 167: Add user feedback collection
+
+// Commit 244: Add landlord dashboard
