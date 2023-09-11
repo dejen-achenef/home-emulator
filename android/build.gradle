@@ -37,3 +37,5 @@ task clean(type: Delete) {
 // Commit 161: Add rollback mechanisms
 
 // Commit 238: Add cancellation policy
+
+// Commit 6: Create smart home integration
