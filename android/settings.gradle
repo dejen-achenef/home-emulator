@@ -21,3 +21,5 @@ plugins.each { name, path ->
 // Commit 163: Create release management
 
 // Commit 240: Create review and rating system
+
+// Commit 8: Implement energy monitoring
