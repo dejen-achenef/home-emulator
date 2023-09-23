@@ -17,3 +17,5 @@ import Flutter
 // Commit 112: Create affordability calculator
 
 // Commit 189: Optimize performance
+
+// Commit 34: Add depreciation tracking
